@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=my_project
+%uri=sqitch:pg://juan:cruz@localhost:5432/movies
+
